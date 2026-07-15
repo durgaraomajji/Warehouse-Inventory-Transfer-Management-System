@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+pydantic
+python-jose[cryptography]
+passlib[argon2]
+argon2-cffi
+python-multipart
+email-validator
